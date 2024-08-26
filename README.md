@@ -1,4 +1,2 @@
 # Campus Placement Preduction
 
-
-
